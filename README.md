@@ -4,6 +4,6 @@ ROBERT
 
 ➥ Minecraft server developer
 
-➥ Currently learning Minecraft Plugin Development
+➥ Currently learning Minecraft plugin development
 
 ➥ DISCORD: R0B3RT#4598
