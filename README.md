@@ -1,5 +1,3 @@
-ROBERT
-
 ➥ 13 years old from Germany
 
 ➥ Minecraft server developer
